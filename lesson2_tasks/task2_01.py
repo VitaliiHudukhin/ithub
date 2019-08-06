@@ -1,3 +1,4 @@
+print('Let\'s try to find a max number of three given')
 
 def is_number(strg):
     is_number = True
@@ -12,16 +13,16 @@ def is_number(strg):
 
 print("Please, enter a first number: ")
 first = is_number(input())
-print("Please, enter a second number: ")
-second = is_number(input())
-print("Please, enter a third number: ")
-third = is_number(input())
 while first[0] == False:
     print("Please, enter a correct first number: ")
     first = is_number(input())
+print("Please, enter a second number: ")
+second = is_number(input())
 while second[0] == False:
     print("Please, enter a correct second number: ")
     second = is_number(input())
+print("Please, enter a third number: ")
+third = is_number(input())
 while third[0] == False:
     print("Please, enter a correct third number: ")
     third = is_number(input())

@@ -32,7 +32,12 @@ while c[0] == False:
     c = is_number(input())
 
 b_help = '+'+str(b[1]) if b[1]>0 else str(b[1])
-c_help = '' if c[1]==0 else c[1]
+if c[1]==0:
+    c_help = ''
+elif c[1]<0:
+    c_help = c[1]
+else:
+    c_help='+'+str(c[1])
 print('Quadratic equation = '+str(a[1])+'x²'+b_help+'x'+c_help+'=0')
 
 print('a = '+str(a[1]))

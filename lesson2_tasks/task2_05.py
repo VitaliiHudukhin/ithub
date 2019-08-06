@@ -3,14 +3,15 @@ print('Red = 1\nOrange = 2\nYellow = 3\nGreen = 4\nLightBlue = 5\nBlue = 6\nViol
 def is_number(strg):
     try:
         float(strg)
-        return float(strg)
+        if float(strg) >0 and float(strg)<=7:
+            return float(strg)
     except ValueError:
         print("Entered data isn't the number, try again")
         return False
 
 color = is_number(input())
 while color == False:
-    print("Please, enter the number: ")
+    print("Please, enter the correct number: ")
     color = is_number(input())
 
 rainbow_dict = {

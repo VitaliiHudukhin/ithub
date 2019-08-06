@@ -5,7 +5,7 @@ def station_select(strg):
     if strg in stationsList:
         print('You have chosen \''+strg+'\' station')
         checker = True
-    elif strg == 'E':
+    elif strg == 'EXIT':
         print('You have left the station selection')
         checker = True
     else:
@@ -13,8 +13,8 @@ def station_select(strg):
         checker = False
     return checker
 
-print('Please, choose a station (A-E). For exit the program, please type \'E\'')
+print('Please, choose a station (A-E). For exit the program, please type \'EXIT\'')
 station = station_select(input().upper())
 while station == False:
-    print('Please, choose a correct station (A-E). For exit the program, please type \'E\'')
+    print('For exit the program, please type \'EXIT\'')
     station = station_select(input().upper())
