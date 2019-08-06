@@ -1,4 +1,4 @@
-print('Please, enter whole positive number, which equals to number of day of week to see the schedule')
+print('Please, enter whole positive number in range 1-7, which equals to number of day of week to see the schedule')
 print('Monday = 1\nTuesday = 2\nWednesday = 3\nThursday = 4\nFriday = 5\nSaturday = 6\nSunday = 7')
 def is_number(strg):
     try:
