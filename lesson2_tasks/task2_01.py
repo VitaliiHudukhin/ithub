@@ -1,11 +1,11 @@
 print('Let\'s try to find a max number of three given')
-
+#проверяем число на float
+#проверяем число на nan, если ошибка - False
 def is_number(strg):
     is_number = True
     try:
         num = float(strg)
-        # check for "nan" floats
-        is_number = num == num   # or use 'math.isnan(num)'
+        is_number = num == num
     except ValueError:
         is_number = False
         num = False

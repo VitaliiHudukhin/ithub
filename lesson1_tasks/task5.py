@@ -2,12 +2,14 @@ import math
 
 #-------------------------- check the numeric values  -----------------------------------------------#
 def is_number(strg):
+    check = 'False'
     try:
         float(strg)
         return float(strg)
     except ValueError:
         print("Entered data isn't the number, try again")
-        return False
+        return check
+
 #-------------------------- enter a correct coordinates ----------------------------------------------#
 while True:
     print("Please, enter a coordinates of A point: ")
@@ -15,7 +17,7 @@ while True:
     Ax = is_number(input())
     print("Ay:")
     Ay = is_number(input())
-    while Ax == False or Ay == False:
+    while Ax == 'False' or Ay == 'False':
         print("Please, enter a correct Ax coordinate: ")
         Ax = is_number(input())
         print("Please, enter a correct Ay coordinate: ")
@@ -26,7 +28,7 @@ while True:
     Bx = is_number(input())
     print("By:")
     By = is_number(input())
-    while Bx == False or By == False:
+    while Bx == 'False' or By == 'False':
         print("Please, enter a correct Bx coordinate: ")
         Bx = is_number(input())
         print("Please, enter a correct By coordinate: ")
@@ -37,7 +39,7 @@ while True:
     Cx = is_number(input())
     print("Cy:")
     Cy = is_number(input())
-    while Cx == False or Cy == False:
+    while Cx == 'False' or Cy == 'False':
         print("Please, enter a correct Cx coordinate: ")
         Cx = is_number(input())
         print("Please, enter a correct Cy coordinate: ")
