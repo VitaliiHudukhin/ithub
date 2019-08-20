@@ -1,6 +1,6 @@
 import re
-
-textString = input()
+print('This program is case sensitive, be careful!')
+textString = input('Please, enter a text string')
 splitString = re.sub("([^\w]|[\d_])+", " ", textString).split()
 lenOfSplitString = len(splitString)
 print('')

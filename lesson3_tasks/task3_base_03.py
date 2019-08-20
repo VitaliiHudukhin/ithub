@@ -1,5 +1,4 @@
 
-
 def fibonacci(n):
     fib1 = 0
     fib2 = 1
