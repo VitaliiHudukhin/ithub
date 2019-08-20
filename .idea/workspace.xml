@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8006aa7-d94c-4318-9e3a-9b396fffbc9b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/ITHUB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ITHUB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3_tasks/task3_base_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson3_tasks/task3_base_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson4_tasks/task4_advanced_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson4_tasks/task4_advanced_02.py" afterDir="false" />
-    </list>
+    <list default="true" id="a8006aa7-d94c-4318-9e3a-9b396fffbc9b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +10,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_advanced_06.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="118">
@@ -31,8 +25,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson4_tasks/work.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="22" />
+            <state relative-caret-position="119">
+              <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson6_tasks/task6_base_01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="20" lean-forward="true" selection-end-line="43" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -97,6 +100,7 @@
         <option value="$PROJECT_DIR$/lesson4_tasks/task4_advanced_05.py" />
         <option value="$PROJECT_DIR$/lesson4_tasks/task4_advanced_02.py" />
         <option value="$PROJECT_DIR$/lesson4_tasks/task4_advanced_06.py" />
+        <option value="$PROJECT_DIR$/lesson6_tasks/task6_base_01.py" />
       </list>
     </option>
   </component>
@@ -122,6 +126,11 @@
               <item name="ITHUB" type="b2602c69:ProjectViewProjectNode" />
               <item name="ITHUB" type="462c0819:PsiDirectoryNode" />
               <item name="lesson4_tasks" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ITHUB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ITHUB" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson6_tasks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -495,13 +504,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_advanced_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_advanced_05.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="543">
@@ -567,13 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4_tasks/work.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="7" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_advanced_06.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
@@ -581,6 +576,27 @@
           <folding>
             <element signature="e#654#667#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_advanced_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4_tasks/work.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6_tasks/task6_base_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="20" lean-forward="true" selection-end-line="43" selection-end-column="35" />
         </state>
       </provider>
     </entry>
