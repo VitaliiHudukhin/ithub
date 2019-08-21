@@ -11,4 +11,11 @@ S_ct.find('s') # -1 вернет если какая-то ошибка, index и
 
 # ord() и chr() - коды ASCII таблицы
 
+lst_num = list(map(int,(input("Введіть список чисел:").split(' '))))
+print(lst_num)
+
+print("=============EOF==============")
+
+lst_num1 = [int(i) for i in input("Введіть список чисел \n").split()]
+print(lst_num1)
 
