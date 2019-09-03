@@ -1,0 +1,8 @@
+Bambarbiarange(10):
+    print(i)34
+35
+35
+First
+Second
+gfdgdfgdfgfdg
+checkercrot

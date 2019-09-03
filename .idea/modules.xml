@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/BiogenDCF/.idea/BiogenDCF.iml" filepath="$USER_HOME$/BiogenDCF/.idea/BiogenDCF.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ITHUB.iml" filepath="$PROJECT_DIR$/.idea/ITHUB.iml" />
-      <module fileurl="file://$USER_HOME$/Novo Nordisk/.idea/Novo Nordisk.iml" filepath="$USER_HOME$/Novo Nordisk/.idea/Novo Nordisk.iml" />
     </modules>
   </component>
 </project>

@@ -11,11 +11,15 @@ valuableCommands = ['change number','new class','delete class','total amount','e
 for i in valuableCommands:
     print(i)
 inputData = ""
+#пока не введено exit программа продолжается
 while inputData.lower() != 'exit':
     inputData = input('Please, enter one of the valuable command: ')
     if inputData == 'change number':
+        #рэндомный класс из school
         classRandSelect = randint(0,5)
+        #рэндомное число которое прибавлю к количеству учеников
         classRandChange = randint(-5,5)
+        # выбранный рэндомно класс прибавляю выбранное рэндомное число учеников
         school[list(school.keys())[classRandSelect]]+=classRandChange
         print('In '+list(school.keys())[classRandSelect]+' class now '
               +str(school[list(school.keys())[classRandSelect]])+' pupils')
