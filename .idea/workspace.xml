@@ -2,10 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8006aa7-d94c-4318-9e3a-9b396fffbc9b" name="Default Changelist" comment="">
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/2019_PTO_Відпочинок_Masterfile.xlsx" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/CUt metrics.pbix" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/Capacity Utilization metrics.pbix" beforeDir="false" afterPath="$USER_HOME$/work/powerbi/Capacity/Capacity Utilization metrics.pbix" afterDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/Capacity.csv" beforeDir="false" afterPath="$USER_HOME$/work/powerbi/Capacity/Capacity.csv" afterDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/Capacity.pbix" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/Capacity_light_version.csv" beforeDir="false" afterPath="$USER_HOME$/work/powerbi/Capacity/Capacity_light_version.csv" afterDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/Capacity_update.pbix" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/Holidays&amp;Workdays.xlsx" beforeDir="false" afterPath="$USER_HOME$/work/powerbi/Capacity/Holidays&amp;Workdays.xlsx" afterDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/Issues.xlsx" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/README.md" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/Viseven Teams for BI.xlsx" beforeDir="false" afterPath="$USER_HOME$/work/powerbi/Capacity/Viseven Teams for BI.xlsx" afterDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/_test_Issues.xlsx" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/_test_projects.xlsx" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/_test_vacations.csv" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/_worklogs_for_update.csv" beforeDir="false" afterPath="$USER_HOME$/work/powerbi/Capacity/_worklogs_for_update.csv" afterDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/all_projects_pattern.xlsx" beforeDir="false" afterPath="$USER_HOME$/work/powerbi/Capacity/all_projects_pattern.xlsx" afterDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/capacity by role.xlsx" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/custom-issue (1).csv" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/custom-worklog (1).csv" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/getIssuesList (for power bi).py" beforeDir="false" afterPath="$USER_HOME$/work/powerbi/Capacity/getIssuesList (for power bi).py" afterDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/jira_new_task_rec.pbix" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/project_category_info.py" beforeDir="false" afterPath="$USER_HOME$/work/powerbi/Capacity/project_category_info.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/projects_jira.xlsx" beforeDir="false" afterPath="$USER_HOME$/work/powerbi/Capacity/projects_jira.xlsx" afterDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/test.pbix" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/user_vacations.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/worklogs_all_and_update.py" beforeDir="false" afterPath="$USER_HOME$/work/powerbi/Capacity/worklogs_all_and_update.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/work/powerbi/Capacity/Книга1.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/ITHUB.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ITHUB.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6_tasks/task6_base_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6_tasks/task6_base_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson10/battle.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson10/battle.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,43 +43,25 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson10/battle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lesson10/Heroes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
+            <state relative-caret-position="374">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson10/battle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="112" column="52" selection-start-line="112" selection-start-column="52" selection-end-line="112" selection-end-column="52" />
-              <folding>
-                <element signature="e#0#27#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_base_01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_advanced_01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="10" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -81,12 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/lesson1_tasks/task1.py" />
-        <option value="$PROJECT_DIR$/lesson1_tasks/task3.py" />
-        <option value="$PROJECT_DIR$/lesson1_tasks/task4.py" />
-        <option value="$PROJECT_DIR$/lesson1_tasks/help.py" />
-        <option value="$PROJECT_DIR$/lesson1_tasks/task2.py" />
-        <option value="$PROJECT_DIR$/lesson2_tasks/task2_07.py" />
         <option value="$PROJECT_DIR$/lesson2_tasks/task2_04.py" />
         <option value="$USER_HOME$/BiogenDCF/scripts/testing_worklog update.py" />
         <option value="$PROJECT_DIR$/lesson2_tasks/task2_03.py" />
@@ -128,7 +131,16 @@
         <option value="$PROJECT_DIR$/lesson10_tasks/Heroes.py" />
         <option value="$PROJECT_DIR$/lesson10_tasks/battle.py" />
         <option value="$PROJECT_DIR$/lesson10/Heroes.py" />
+        <option value="$PROJECT_DIR$/lesson10/actions.py" />
+        <option value="$PROJECT_DIR$/lesson10/works.py" />
+        <option value="$PROJECT_DIR$/lesson11_tasks/workwork.py" />
+        <option value="$PROJECT_DIR$/lesson12_tasks/datetimemodule.py" />
+        <option value="$PROJECT_DIR$/lesson12_tasks/workwork.py" />
         <option value="$PROJECT_DIR$/lesson10/battle.py" />
+        <option value="$PROJECT_DIR$/lesson12_tasks/tree_catalog_creation.py" />
+        <option value="$PROJECT_DIR$/lesson12_tasks/task12.py" />
+        <option value="$USER_HOME$/Fast laod/worklogs.py" />
+        <option value="$USER_HOME$/work/powerbi/Capacity/getIssuesList (for power bi).py" />
       </list>
     </option>
   </component>
@@ -164,11 +176,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings custom-start-script="import sys&#10;print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;" module-name="ITHUB" is-module-sdk="true">
+        <option name="myCustomStartScript" value="import sys&#10;print('Python %s on %s' % (sys.version, sys.platform))&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;" />
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="ITHUB" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\v.gudukhin\.PyCharmCE2019.1\config\scratches" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\GVV_Viseven\ITHUB\lesson10" />
     </key>
@@ -199,6 +224,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="D:\GVV_Viseven\ITHUB\lesson10\Heroes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Capacity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,6 +337,50 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Capacity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Capacity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="Capacity" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Python.battle" />
@@ -327,8 +417,29 @@
     <frame x="-7" y="0" width="1378" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36418816" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49752474" visible="true" weight="0.25493172" />
+      <window_info id="Structure" order="1" sideWeight="0.50247526" side_tool="true" weight="0.24355084" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32890365" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4053156" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32890365" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32890365" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3255814" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" visible="true" weight="0.32890365" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49752474" visible="true" weight="0.24734446" />
+      <window_info id="Structure" order="1" sideWeight="0.50247526" side_tool="true" weight="0.24355084" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -346,85 +457,9 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="R Graphics" order="3" />
       <window_info anchor="right" id="R Packages" order="4" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lesson1_tasks/task3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" selection-end-line="25" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1_tasks/task1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="47" column="28" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1_tasks/task5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2_tasks/task2_06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="19" column="45" selection-start-line="19" selection-start-column="45" selection-end-line="19" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3_tasks/tasktest.py" />
-    <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_01.py" />
-    <entry file="file://$PROJECT_DIR$/lesson2_tasks/task2_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1496">
-          <caret line="88" column="12" selection-start-line="20" selection-end-line="88" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3_tasks/task3_base_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="22" lean-forward="true" selection-end-line="19" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_advanced_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1088">
-          <caret line="64" column="37" selection-end-line="70" selection-end-column="106" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_advanced_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="54" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Novo Nordisk/userdata.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-561">
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Novo Nordisk/SLA_data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
@@ -487,13 +522,6 @@
           <folding>
             <element signature="e#0#19#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7_tasks/work.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -615,20 +643,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson9_tasks/workwork.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson7_tasks/task7_base_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="52" column="44" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson7_tasks/task7_advanced_01.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -646,20 +660,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6_tasks/task6_advanced_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson6_tasks/task6_base_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_base_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
@@ -670,13 +670,8 @@
     <entry file="file://$PROJECT_DIR$/lesson10/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_base_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/actions.py" />
+    <entry file="file://$PROJECT_DIR$/lesson10/works.py" />
     <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_advanced_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -684,22 +679,124 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson10/battle.py">
+    <entry file="file://$PROJECT_DIR$/lesson11_tasks/workwork.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" lean-forward="true" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Heroes.py" />
+    <entry file="file://$PROJECT_DIR$/lesson6_tasks/task6_base_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson4_tasks/task4_base_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson6_tasks/task6_advanced_03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson9_tasks/workwork.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
-          <caret line="112" column="52" selection-start-line="112" selection-start-column="52" selection-end-line="112" selection-end-column="52" />
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12_tasks/datetimemodule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <element signature="e#0#27#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12_tasks/workwork.py" />
+    <entry file="file://$PROJECT_DIR$/lesson7_tasks/task7_base_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="52" column="44" selection-start-line="52" selection-start-column="44" selection-end-line="52" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson7_tasks/work.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12_tasks/task12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson12_tasks/tree_catalog_creation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/work/powerbi/Capacity/getIssuesList (for power bi).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Fast laod/worklogs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="170" column="24" selection-start-line="148" selection-end-line="177" selection-end-column="50" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Fast laod/cfgs.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/lesson10/Heroes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
+        <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson10/battle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>

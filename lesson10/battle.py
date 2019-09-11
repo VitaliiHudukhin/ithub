@@ -1,4 +1,4 @@
-from lesson10 import Heroes
+import Heroes
 from random import randint
 from math import floor
 
